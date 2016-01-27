@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFileAssistant</string>
+    <string name="iplabel">IP address: </string>
+    <string name="send_button">Send</string>
+    <string name="receive_button">Receive</string>
+</resources>
