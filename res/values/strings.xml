@@ -4,4 +4,14 @@
     <string name="iplabel">IP address: </string>
     <string name="send_button">Send</string>
     <string name="receive_button">Receive</string>
+    <string name="wifi_button">WiFi Status</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="receiver_button">Receiver</string>
+    <string name="sender_button">Sender</string>
+    <string name="wifi_label">WiFi Status: </string>
+    <string name="wifi_null">NULL</string>
+    <string name="addfile_item">Add file(s)</string>
+    <string name="adddirectory_item">Add a directory</string>
+    <string name="smile">^0^</string>
 </resources>
